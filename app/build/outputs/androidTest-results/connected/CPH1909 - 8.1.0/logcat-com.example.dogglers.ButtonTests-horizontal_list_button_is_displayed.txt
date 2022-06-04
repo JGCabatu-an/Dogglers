@@ -1,0 +1,416 @@
+06-04 17:28:44.736  4275  4368 I TestRunner: started: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)
+06-04 17:28:44.767  4300  4300 I Finsky  : [2] kwe.C(3): Installer: Attempting to start installer
+06-04 17:28:44.769  4300  4300 I Finsky  : [2] adnu.c(2): registerListener
+06-04 17:28:44.775  4300  4300 I Finsky  : [2] xzj.a(1): Warm data store was already initialized.
+06-04 17:28:44.776  4300  4300 I Finsky  : [2] xzi.a(1): Warm data store was already initialized.
+06-04 17:28:44.778  1157  1710 E Process : get_ion_cache_memory: Unable to open /d/ion/heaps/system
+06-04 17:28:44.775  1157  1157 W Binder:1157_7: type=1400 audit(0.0:706244): avc: denied { search } for name="heaps" dev="debugfs" ino=7184 scontext=u:r:system_server:s0 tcontext=u:object_r:debugfs_ion_mm_heap:s0 tclass=dir permissive=0
+06-04 17:28:44.782  4300  4300 I Finsky  : [2] xzi.a(1): Warm data store was already initialized.
+06-04 17:28:44.783  4300  4300 I Finsky  : [2] xzi.a(1): Warm data store was already initialized.
+06-04 17:28:44.784  4275  4368 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:44.784  4300  4300 I Finsky  : [2] led.<init>(19): Initializing pausers from value store.
+06-04 17:28:44.785  4300  4300 I Finsky  : [2] led.<init>(22): Get the following callers from value store [].
+06-04 17:28:44.814  2644  2644 D Launcher.Workspace: updateApps -- updated from open group = false
+06-04 17:28:44.814  4300  4300 I Finsky  : [2] rsq.onStartJob(4): SCH: job service start with id 9596.
+06-04 17:28:44.816  4300  4321 I zygote64: The ClassLoaderContext is a special shared library.
+06-04 17:28:44.822  2644  2644 D Launcher.CellLayout: updateAppInfo -- success! app = App{T=Dogglers U=true UN=0 CN=ComponentInfo{com.example.dogglers/com.example.dogglers.MainActivity} IS=-1 DP = 0 TP = 0 S=1001 C=-100 cell=0/5 span=1/1 rank=0}
+06-04 17:28:44.823  2644  2644 D Launcher.Workspace: updateApps -- updated from page = true
+06-04 17:28:44.823  4300  4321 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+06-04 17:28:44.825  4300  4300 I Finsky  : [2] hbw.onSubscriptionsChanged(1): onSubscriptionsChanged
+06-04 17:28:44.829  4300  4300 I Finsky  : [2] kwe.U(1): Installer: Installer kick - no action, not running yet
+06-04 17:28:44.830  4300  4321 I System.out: Not need to boost!
+06-04 17:28:44.834  4300  4321 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+06-04 17:28:44.836  4300  4321 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+06-04 17:28:44.847   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+06-04 17:28:44.850   468   481 I libPerfService: 8: set gpu level: 2
+06-04 17:28:44.851   468   481 I libPerfService: 8: cpu_ctrl set freq: 2301000 -1 1800000 -1
+06-04 17:28:44.878   476   476 I DisplayDevice: [Built-in Screen (type:0)] fps:0.622602,dur:1606.16,max:1606.16,min:1606.16
+06-04 17:28:44.881  4300  4321 W System  : ClassLoader referenced unknown path: system/framework/mediatek-cta.jar
+06-04 17:28:44.883  4300  4321 I System.out: e:java.lang.ClassNotFoundException: com.mediatek.cta.CtaHttp
+06-04 17:28:44.977  4300  4326 I Finsky  : [30437] rkv.accept(45): SCH: Scheduling phonesky job Id: 26-1414141414, CT: 1654323127612, Constraints: [{ L: 43200000, D: 44100000, C: 1, I: 1, N: 0 }]
+06-04 17:28:44.978  4300  4326 I Finsky  : [30437] rkv.accept(45): SCH: Scheduling phonesky job Id: 29-29, CT: 1654334911433, Constraints: [{ L: 30000, D: 60000, C: 1, I: 1, N: 0 }]
+06-04 17:28:44.997  4300  4376 I Finsky  : [30475] ipv.g(1): getDownloads()
+06-04 17:28:45.020  4300  4338 I Finsky  : [30449] rqw.apply(85): SCH: Scheduling 1 system job(s)
+06-04 17:28:45.021  4300  4338 I Finsky  : [30449] rqw.apply(91): SCH: Scheduling system job Id: 9637, L: 16413, D: 46413, C: false, I: false, N: 0
+06-04 17:28:45.031  1157  1295 D WindowClient: Add to mViews: DecorView@102d17[dogglers], this = android.view.WindowManagerGlobal@ca68599
+06-04 17:28:45.035  1157  1168 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-04 17:28:45.037   468   482 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.example.dogglers, act:androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity, pid:4275, state:1
+06-04 17:28:45.038  1157  1295 D ViewRootImpl[dogglers]: hardware acceleration = false , fakeHwAccelerated = true, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-04 17:28:45.038   468   481 I libPerfService: [perfNotifyAppState] foreground:com.example.dogglers, pid:4275
+06-04 17:28:45.044  4300  4321 I System.out: [OkHttp] sendRequest>>
+06-04 17:28:45.044  4300  4321 I System.out: [OkHttp] sendRequest<<
+06-04 17:28:45.062   476   476 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:45.063  2762  2778 I DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=com.example.dogglers
+06-04 17:28:45.077  1157  1295 D Surface : lockCanvas
+06-04 17:28:45.077  1157  1295 D Surface : Surface::connect(this=0x780beb4000,api=2)
+06-04 17:28:45.078   476   656 I BufferQueueProducer: [Splash Screen com.example.dogglers#0](this:0x7c4f076800,id:3520,api:2,p:1157,c:-1) connect(P): api=2 producer=(1157:system_server) producerControlledByApp=false
+06-04 17:28:45.081  4388  4388 E zygote64: Unknown bits set in debug_flags: 0x8000
+06-04 17:28:45.125  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: PRE_ON_CREATE
+06-04 17:28:45.129  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:45.135  4300  4394 I Finsky  : [30483] rsq.a(16): SCH: job service finished with id 9596.
+06-04 17:28:45.139   476   656 W DispPerfService: onFrameAvailable: (1157,-1)
+06-04 17:28:45.175  4300  4338 I Finsky  : [30449] rkv.accept(45): SCH: Scheduling phonesky job Id: 29-29, CT: 1654334924383, Constraints: [{ L: 30000, D: 60000, C: 1, I: 1, N: 0 }]
+06-04 17:28:45.180  2644  3315 D Surface : Surface::disconnect(this=0x7802859000,api=1)
+06-04 17:28:45.181   476   593 I BufferQueueProducer: [com.oppo.launcher/com.oppo.launcher.Launcher#0](this:0x7c4eee2800,id:3519,api:1,p:2644,c:-1) disconnect(P): api 1
+06-04 17:28:45.181  1811  1811 I StatusBar: setNavigationBarColor() vis:80 color:fffbfbfb expandNavBar:false mNavigationBarEnableStatus:0
+06-04 17:28:45.183  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:true color:fffbfbfb @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:45.191  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:true color:fffbfbfb @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:45.205  1157  1168 I ColorReflectWidget: oppoAMS,DIRECT_REFLECT_TRANSACTION, info: ColorReflectData{mReflectEnable=true, mReflectList=[]}
+06-04 17:28:45.211  4300  4326 I Finsky  : [30437] rqw.apply(85): SCH: Scheduling 0 system job(s)
+06-04 17:28:45.222  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: CREATED
+06-04 17:28:45.224  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:45.224  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:45.226  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: STARTED
+06-04 17:28:45.227  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:45.228  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:45.237  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:45.237  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:45.240  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:45.245   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+06-04 17:28:45.254  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: RESUMED
+06-04 17:28:45.256  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:45.270  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: PAUSED
+06-04 17:28:45.272  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:45.272  1811  1811 I Choreographer: Skipped 2 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:45.283   468   482 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.example.dogglers, act:com.example.dogglers.MainActivity, pid:4275, state:1
+06-04 17:28:45.299  1157  1176 W zygote64: kill(-3512, 9) failed: No such process
+06-04 17:28:45.299  1157  1176 I zygote64: Successfully killed process cgroup uid 10008 pid 3512 in 0ms
+06-04 17:28:45.302  2762  2793 I DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=com.android.defcontainer
+06-04 17:28:45.305  1157  1157 I OppoPhoneWindowManager: KeyLockModeReceiver KeyLockMode: 0 ProcessName: com.android.defcontainer
+06-04 17:28:45.335  4388  4388 W ResourceType: ResTable_typeSpec entry count inconsistent: given 171, previously 200
+06-04 17:28:45.345  4388  4388 I Finsky:background: [2] fms.i(6): Process created at version: 30.6.16-21 [0] [PR] 448548437
+06-04 17:28:45.399  4388  4388 I Finsky:background: [2] pjp.c(18): Finished reading experiment flags from file [0tGUNCGIkbk4o6-fQ335kUYSKwVj4lusnHT-A5Dsy08].
+06-04 17:28:45.405  4388  4388 I Finsky:background: [2] pjp.c(18): Finished reading experiment flags from file [h4uX1hHaVWNkWIL8CuyfmPeX8i6Tq545Tab5zmnZZRs].
+06-04 17:28:45.409  4388  4388 I Finsky:background: [2] lxi.onCreate(2): IPC-SERVER: Starting gRPC host service...
+06-04 17:28:45.413  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: PRE_ON_CREATE
+06-04 17:28:45.415  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-04 17:28:45.480  1157  1406 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=3950, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+06-04 17:28:45.481  1157  1347 D WIFI    : got request NetworkRequest [ TRACK_DEFAULT id=3950, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+06-04 17:28:45.481  1157  1347 D WIFI_UT : got request NetworkRequest [ TRACK_DEFAULT id=3950, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+06-04 17:28:45.481  1670  1670 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=3950, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+06-04 17:28:45.521  4300  4300 E Parcel  : Attempt to read from protected data in Parcel 0x7835e3edd0
+06-04 17:28:45.521  4300  4300 E Parcel  : Attempt to read from protected data in Parcel 0x7835e3edd0
+06-04 17:28:45.524  4388  4402 E Parcel  : Attempt to read from protected data in Parcel 0x7835e3b330
+06-04 17:28:45.524  4388  4402 E Parcel  : Attempt to read from protected data in Parcel 0x7835e3b330
+06-04 17:28:45.533  4388  4414 I Finsky:background: [30436] inh.f(1): getDownloads()
+06-04 17:28:45.539  4300  4339 I Finsky  : [30448] ipv.g(1): getDownloads()
+06-04 17:28:45.541  4388  4414 I Finsky:background: [30436] inh.f(1): getDownloads()
+06-04 17:28:45.545  4300  4382 I Finsky  : [30479] ktt.run(11): Installer: Installer starting
+06-04 17:28:45.545  4300  4382 I Finsky  : [30479] ktt.run(14): Installer: Installer started
+06-04 17:28:45.551  4300  4300 I Finsky  : [2] gzm.a(1): DL: Creating dataloader logger using a new logging context.
+06-04 17:28:45.555  4300  4300 I Finsky  : [2] kwe.U(7): Installer: found apps to install. isMultiUserMode=false, apps=[]
+06-04 17:28:45.561  4300  4417 I Finsky  : [30486] kuv.a(91): IV2: found recoverable installs: []
+06-04 17:28:45.591  4300  4419 I Finsky  : [30488] lew.x(1): IQ: Pruning inactive install requests
+06-04 17:28:45.614  4300  4300 I Finsky  : [2] xzi.a(1): Warm data store was already initialized.
+06-04 17:28:45.615  4300  4300 I Finsky  : [2] xzi.a(1): Warm data store was already initialized.
+06-04 17:28:45.616  4300  4300 I Finsky  : [2] sua.a(1): Connecting InstallListener to SplitInstallService broadcaster...
+06-04 17:28:45.661  1811  1996 D TrafficStatsHelper: transmitted_validWifiData.get(0) = wlan0
+06-04 17:28:45.876  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: CREATED
+06-04 17:28:45.878  4275  4275 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@600cbcd
+06-04 17:28:45.881  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: STARTED
+06-04 17:28:45.882  4275  4275 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@600cbcd
+06-04 17:28:45.891  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: RESUMED
+06-04 17:28:45.892  4275  4275 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@600cbcd
+06-04 17:28:45.907  4275  4275 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@442a27f
+06-04 17:28:45.918   476   656 I SurfaceFlinger: EventThread Client Pid (4275) created
+06-04 17:28:45.919   476   656 I SurfaceFlinger: EventThread Client Pid (4275) created
+06-04 17:28:45.924  4275  4275 D WindowClient: Add to mViews: DecorView@1794faa[MainActivity], this = android.view.WindowManagerGlobal@e68e79b
+06-04 17:28:45.927  4275  4275 D OpenGLRenderer: Dumper init 4 threads <0x7811db40c0>
+06-04 17:28:45.928  4275  4275 D OpenGLRenderer: <com.example.dogglers> is running.
+06-04 17:28:45.930   476   656 I SurfaceFlinger: EventThread Client Pid (4275) created
+06-04 17:28:45.931  4275  4423 D OpenGLRenderer: HWUI GL Pipeline
+06-04 17:28:45.936  4275  4275 D ViewRootImpl[MainActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-04 17:28:45.939   476   656 I SurfaceFlinger: [SF client] NEW(0x7c51a1e3a0) for (1157:system_server)
+06-04 17:28:45.943  4275  4275 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{61e0738 com.example.dogglers/com.example.dogglers.MainActivity,ident = 0}, this = DecorView@1794faa[MainActivity]
+06-04 17:28:45.949  4275  4368 D EventInjectionStrategy: Creating injection strategy with input manager.
+06-04 17:28:45.962   476   476 I DisplayDevice: [Built-in Screen (type:0)] fps:26.732553,dur:1084.82,max:267.73,min:2.94
+06-04 17:28:45.969  9753  9862 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+06-04 17:28:45.969  9753  9862 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+06-04 17:28:45.978  9753  9862 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+06-04 17:28:45.990  1157  1312 D MtkDataShapingUtils: openLteGateByDataShaping datashaping instance is null
+06-04 17:28:45.992  9753  9862 I FontLog : Pulling font file for id = 137, cache size = 5 [CONTEXT service_id=132 ]
+06-04 17:28:46.007  9753  9862 I FontLog : Pulling font file for id = 137, cache size = 5 [CONTEXT service_id=132 ]
+06-04 17:28:46.045   476   476 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:46.051  1157  2961 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-04 17:28:46.059  4275  4275 D Surface : Surface::allocateBuffers(this=0x782a3a0000)
+06-04 17:28:46.063  4275  4280 I zygote64: Do partial code cache collection, code=30KB, data=27KB
+06-04 17:28:46.063  4275  4280 I zygote64: After code cache collection, code=30KB, data=27KB
+06-04 17:28:46.063  4275  4280 I zygote64: Increasing code cache capacity to 128KB
+06-04 17:28:46.087  1157  1176 W zygote64: kill(-3860, 9) failed: No such process
+06-04 17:28:46.087  1157  1176 I zygote64: Successfully killed process cgroup uid 1000 pid 3860 in 0ms
+06-04 17:28:46.088  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.090  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.093  1157  1157 I OppoPhoneWindowManager: KeyLockModeReceiver KeyLockMode: 0 ProcessName: com.android.keychain
+06-04 17:28:46.095  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.096  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.096  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.103  4275  4275 W RenderThread: type=1400 audit(0.0:706245): avc: denied { search } for name="clients" dev="debugfs" ino=7185 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs_ion:s0 tclass=dir permissive=0
+06-04 17:28:46.111  1811  1811 I Choreographer: Skipped 1 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.122  4275  4423 I zygote64: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+06-04 17:28:46.122  4275  4423 I OpenGLRenderer: Initialized EGL, version 1.4
+06-04 17:28:46.122  4275  4423 D OpenGLRenderer: Swap behavior 2
+06-04 17:28:46.152  4275  4423 D OpenGLRenderer: [init] completed
+06-04 17:28:46.152  4275  4423 D HWUIExtension: MTKProgramCache.init: enable enhancement 1
+06-04 17:28:46.153  4275  4423 I HWUIExtension: Get disable program binary service property (0)
+06-04 17:28:46.153  4275  4423 I HWUIExtension: Initializing program atlas...
+06-04 17:28:46.153  4275  4423 I ProgramBinary/Service: ProgramBinaryService client side disable debugging.
+06-04 17:28:46.153  4275  4423 I ProgramBinary/Service: ProgramBinaryService client side disable binary content debugging.
+06-04 17:28:46.153  4275  4423 D ProgramBinary/Service: BpProgramBinaryService.getReady
+06-04 17:28:46.153  4275  4423 D ProgramBinary/Service: zhiyin- 1 BpProgramBinaryService::getReady()
+06-04 17:28:46.154   707   733 D ProgramBinary/Service: zhiyin- ontransact 1 code 1
+06-04 17:28:46.154   707   733 D ProgramBinary/Service: zhiyin- ontransact 2 code 1
+06-04 17:28:46.154   707   733 D ProgramBinary/Service: zhiyin- ontransact 3 code 1
+06-04 17:28:46.155  4275  4423 D ProgramBinary/Service: zhiyin- 2 BpProgramBinaryService::getReady()
+06-04 17:28:46.155  4275  4423 D ProgramBinary/Service: BpProgramBinaryService.getProgramBinaryData
+06-04 17:28:46.155   707   733 D ProgramBinary/Service: zhiyin- ontransact 1 code 3
+06-04 17:28:46.155  4275  4423 I HWUIExtension: Program binary detail: Binary length is 314392, program map length is 104.
+06-04 17:28:46.156  4275  4423 I HWUIExtension: Succeeded to mmap program binaries. File descriptor is 70, and path is /dev/ashmem.
+06-04 17:28:46.156  4275  4423 I HWUIExtension: No need to use file discriptor anymore, close fd(70).
+06-04 17:28:46.156  4275  4423 D HWUIExtension: Dumper init 4 threads <0x782d142980>
+06-04 17:28:46.156  4275  4423 D HWUIExtension: <com.example.dogglers> is running.
+06-04 17:28:46.156  4275  4423 D HWUIExtension: Initializing program cache from 0x0, size = -1
+06-04 17:28:46.157  4275  4423 D Surface : Surface::connect(this=0x782a3a0000,api=1)
+06-04 17:28:46.157   476   656 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity#0](this:0x7c4eee1000,id:3521,api:1,p:4275,c:-1) connect(P): api=1 producer=(4275:com.example.dogglers) producerControlledByApp=true
+06-04 17:28:46.158  4275  4275 I Choreographer: Skipped 10 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.237  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.239  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.272  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 0
+06-04 17:28:46.273  4275  4423 D HWUIExtension: createProgram 0x0000000000000000, binary 0x7826ddd000, length 10734, format 37168 within 884ns
+06-04 17:28:46.276  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 240518168576
+06-04 17:28:46.277  4275  4423 D HWUIExtension: createProgram 0x0000003800000000, binary 0x7826de267d, length 11448, format 37168 within 873ns
+06-04 17:28:46.280  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 68724719680
+06-04 17:28:46.281  4275  4423 D HWUIExtension: createProgram 0x0000001000500040, binary 0x7826ddf9ee, length 11407, format 37168 within 615ns
+06-04 17:28:46.282  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 562984313159683
+06-04 17:28:46.283  4275  4423 D HWUIExtension: createProgram 0x0002000800000003, binary 0x7826df05b5, length 11461, format 37168 within 633ns
+06-04 17:28:46.303   476   521 W DispPerfService: onFrameAvailable: (4275,-1)
+06-04 17:28:46.322  1157  1185 I ActivityManager: Displayed com.example.dogglers/.MainActivity: +1s37ms (total +40s318ms)
+06-04 17:28:46.324  1157  1295 D View    : [Warning] assignParent to null: this = DecorView@102d17[dogglers]
+06-04 17:28:46.327  4275  4275 I Choreographer: Skipped 9 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.334  1157  1295 D WindowClient: Remove from mViews: DecorView@102d17[dogglers], this = android.view.WindowManagerGlobal@ca68599
+06-04 17:28:46.343  4132  4132 E TSpace.SwitchUtils: getPictorialSwitchState switch = mobile_data_pictorial_support  SettingNotFoundException return = -1
+06-04 17:28:46.443  4275  4275 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230947/com.example.dogglers:id/horizontal_btn>
+06-04 17:28:46.447   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:0
+06-04 17:28:46.447   468   481 I libPerfService: 8: set gpu level: 2
+06-04 17:28:46.454   468   481 I libPerfService: 11: set gpu level: 0
+06-04 17:28:46.455 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-04 17:28:46.455   468   481 I libPerfService: 12: cpu_ctrl set freq: -1 -1 -1 -1
+06-04 17:28:46.456  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: STOPPED
+06-04 17:28:46.457   468   481 I libPerfService: 24: set gpu level: 2
+06-04 17:28:46.457  2644  2849 I Launcher.LauncherTraceUtil: writeLauncherStateToFile. The mStateTrace is null!
+06-04 17:28:46.457  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:46.458  2644  2644 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = ViewRoot{ff4a0e1 com.oppo.launcher/com.oppo.launcher.Launcher,ident = 0}, this = DecorView@f1ceceb[Launcher]
+06-04 17:28:46.470   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+06-04 17:28:46.471   468   481 I libPerfService: 24: set gpu level: 0
+06-04 17:28:46.472   468   481 I libPerfService: 8: set gpu level: 2
+06-04 17:28:46.472   468   481 I libPerfService: 8: cpu_ctrl set freq: 2301000 -1 1800000 -1
+06-04 17:28:46.477  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: PAUSED
+06-04 17:28:46.477  1811  1811 I StatusBar: setNavigationBarColor() vis:0 color:fffbfbfb expandNavBar:false mNavigationBarEnableStatus:0
+06-04 17:28:46.478  4275  4275 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@600cbcd
+06-04 17:28:46.479   476   476 I BufferQueue: [com.oppo.launcher/com.oppo.launcher.Launcher#0](this:0x7c4eee2800,id:3519,api:1,p:-1,c:-1) ~BufferQueueCore
+06-04 17:28:46.485 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-04 17:28:46.487 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:28:46.489 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-04 17:28:46.495  1157  1295 D Surface : Surface::disconnect(this=0x780beb4000,api=2)
+06-04 17:28:46.496   476   521 I BufferQueueProducer: [Splash Screen com.example.dogglers#0](this:0x7c4f076800,id:3520,api:2,p:1157,c:-1) disconnect(P): api 2
+06-04 17:28:46.503  1157  2965 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-04 17:28:46.505   468   482 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.example.dogglers, act:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, pid:4275, state:1
+06-04 17:28:46.511   476   476 I BufferQueue: [Splash Screen com.example.dogglers#0](this:0x7c4f076800,id:3520,api:2,p:-1,c:-1) ~BufferQueueCore
+06-04 17:28:46.518  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.520  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.523  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.523  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.524  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.526  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: PRE_ON_CREATE
+06-04 17:28:46.528  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.543  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:false color:0 @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:46.559  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: CREATED
+06-04 17:28:46.560  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.562  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: STARTED
+06-04 17:28:46.563  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.570  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: RESUMED
+06-04 17:28:46.572  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.574  4275  4275 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@ec6fcfe[]
+06-04 17:28:46.580  4275  4275 D WindowClient: Add to mViews: DecorView@ec6fcfe[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@e68e79b
+06-04 17:28:46.582  4275  4275 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-04 17:28:46.588  4275  4275 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{3858f75 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 1}, this = DecorView@ec6fcfe[InstrumentationActivityInvoker$EmptyActivity]
+06-04 17:28:46.600  1157  2965 E TouchFilter: setTouchFilter LOG Enable prameter: 0
+06-04 17:28:46.600  1157  2965 D EventHub: Event Hub Touch Filter log is disabled
+06-04 17:28:46.600  1157  2965 D EventHub: Event Hub Touch Filter is enabled
+06-04 17:28:46.616   476   476 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:46.619  1811  1811 I StatusBar: setNavigationBarColor() vis:80 color:fffbfbfb expandNavBar:false mNavigationBarEnableStatus:0
+06-04 17:28:46.619  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:true color:fffbfbfb @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:46.620  1157  1710 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-04 17:28:46.621  1157  2965 W ResourceType: ResTable_typeSpec entry count inconsistent: given 862, previously 890
+06-04 17:28:46.621  1157  2965 W ResourceType: ResTable_typeSpec entry count inconsistent: given 273, previously 282
+06-04 17:28:46.621  1157  2965 W ResourceType: ResTable_typeSpec entry count inconsistent: given 318, previously 2627
+06-04 17:28:46.629  4275  4275 D Surface : Surface::allocateBuffers(this=0x7811ce8000)
+06-04 17:28:46.629  4275  4423 D Surface : Surface::connect(this=0x7811ce8000,api=1)
+06-04 17:28:46.629   476   521 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](this:0x7c4f076800,id:3522,api:1,p:4275,c:-1) connect(P): api=1 producer=(4275:com.example.dogglers) producerControlledByApp=true
+06-04 17:28:46.656 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-04 17:28:46.657 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-04 17:28:46.657 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:28:46.658  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.658 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-04 17:28:46.660  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.661   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:1
+06-04 17:28:46.665  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.666  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.667  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.672  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 1099511627784
+06-04 17:28:46.673  4275  4423 D HWUIExtension: createProgram 0x0000010000000008, binary 0x7826df327a, length 13268, format 37168 within 963ns
+06-04 17:28:46.675  4275  4423 D HWUIExtension: MTKProgramCache.generateProgram: 1
+06-04 17:28:46.675  4275  4423 D HWUIExtension: createProgram 0x0000000000000001, binary 0x7826e187fe, length 11503, format 37168 within 756ns
+06-04 17:28:46.680   476   521 W DispPerfService: onFrameAvailable: (4275,-1)
+06-04 17:28:46.687  1811  1811 I Choreographer: Skipped 1 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.699  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: PAUSED
+06-04 17:28:46.701  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.712  1157  2961 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-04 17:28:46.716   468   482 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.example.dogglers, act:androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity, pid:4275, state:1
+06-04 17:28:46.721  4275  4280 I zygote64: Do partial code cache collection, code=59KB, data=56KB
+06-04 17:28:46.721  4275  4280 I zygote64: After code cache collection, code=59KB, data=56KB
+06-04 17:28:46.721  4275  4280 I zygote64: Increasing code cache capacity to 256KB
+06-04 17:28:46.723  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2 in: DESTROYED
+06-04 17:28:46.725  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@2d8aad2
+06-04 17:28:46.737  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: PRE_ON_CREATE
+06-04 17:28:46.738  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:46.745  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.747  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.751  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.751  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.752  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.766  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: CREATED
+06-04 17:28:46.768  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:46.768  1811  1811 I Choreographer: Skipped 1 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.769  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: STARTED
+06-04 17:28:46.771  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:46.777  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: RESUMED
+06-04 17:28:46.778  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:46.781  4275  4275 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = null, this = DecorView@a546857[]
+06-04 17:28:46.786  4275  4275 D WindowClient: Add to mViews: DecorView@a546857[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@e68e79b
+06-04 17:28:46.789  4275  4275 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+06-04 17:28:46.794  4275  4275 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{3ccd162 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity,ident = 2}, this = DecorView@a546857[InstrumentationActivityInvoker$EmptyActivity]
+06-04 17:28:46.815   476   476 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:46.818  1157  2965 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-04 17:28:46.826  4275  4423 D Surface : Surface::connect(this=0x7811a52000,api=1)
+06-04 17:28:46.826  4275  4275 D Surface : Surface::allocateBuffers(this=0x7811a52000)
+06-04 17:28:46.826   476   593 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](this:0x7c4eee2800,id:3523,api:1,p:4275,c:-1) connect(P): api=1 producer=(4275:com.example.dogglers) producerControlledByApp=true
+06-04 17:28:46.854  1157  1347 D WifiStateMachine:  MtkL2ConnectedState { when=-2ms what=131155 arg1=528 target=com.android.internal.util.StateMachine$SmHandler } 528 0, mShouldDeferDisableWifi = false, mState = MONITORING
+06-04 17:28:46.856  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.858  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.862 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-04 17:28:46.863  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.863 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-04 17:28:46.863 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+06-04 17:28:46.865 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-04 17:28:46.870  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.872  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.904  1811  1811 I Choreographer: Skipped 1 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.913   476   656 W DispPerfService: onFrameAvailable: (4275,-1)
+06-04 17:28:46.938  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:true color:fffbfbfb @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:46.942  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: PAUSED
+06-04 17:28:46.943  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:46.954  1157  2963 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+06-04 17:28:46.955   468   482 I vendor.mediatek.hardware.power@1.1-impl: notifyAppState pack:com.google.android.youtube, act:com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity, pid:28665, state:1
+06-04 17:28:46.956   468   481 I libPerfService: [perfNotifyAppState] foreground:com.google.android.youtube, pid:28665
+06-04 17:28:46.965   476   476 I DisplayDevice: [Built-in Screen (type:0)] fps:47.890709,dur:1002.28,max:101.00,min:10.34
+06-04 17:28:46.969  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.971  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:46.974  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:46.974  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:46.975  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:46.982  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: STOPPED
+06-04 17:28:46.984  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.988  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303 in: DESTROYED
+06-04 17:28:46.989  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@758303
+06-04 17:28:46.992  2762  2778 I DCS-ExtraAppInfoParser: oppoTT-readExtraAppInfoFromXml file is not exist
+06-04 17:28:46.992  1157  1347 D WifiStateMachine:  MtkL2ConnectedState { when=0 what=151572 arg1=1 target=com.android.internal.util.StateMachine$SmHandler } 1 0, mShouldDeferDisableWifi = false, mState = MONITORING
+06-04 17:28:46.996  1811  1811 I Choreographer: Skipped 1 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:46.999  4275  4423 D Surface : Surface::disconnect(this=0x7811ce8000,api=1)
+06-04 17:28:47.000   476   656 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](this:0x7c4f076800,id:3522,api:1,p:4275,c:-1) disconnect(P): api 1
+06-04 17:28:47.003  2762  2778 I DCS-ExtraAppInfoParser: oppoTT-readExtraAppInfoFromXml file is not exist
+06-04 17:28:47.004  4275  4275 D View    : [Warning] assignParent to null: this = DecorView@ec6fcfe[InstrumentationActivityInvoker$EmptyActivity]
+06-04 17:28:47.013   476   476 I BufferQueue: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0](this:0x7c4f076800,id:3522,api:1,p:-1,c:-1) ~BufferQueueCore
+06-04 17:28:47.014  4275  4275 D WindowClient: Remove from mViews: DecorView@ec6fcfe[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@e68e79b
+06-04 17:28:47.015  4275  4275 I Choreographer: Skipped 4 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:47.024  2762  2778 W DCS     : Record event failed. DCS reject event: [appId=21000,logTag=2100001,eventId=user_model_background_app] . Pls check server config.
+06-04 17:28:47.024  4275  4423 D Surface : Surface::disconnect(this=0x782a3a0000,api=1)
+06-04 17:28:47.025   476   593 I BufferQueueProducer: [com.example.dogglers/com.example.dogglers.MainActivity#0](this:0x7c4eee1000,id:3521,api:1,p:4275,c:-1) disconnect(P): api 1
+06-04 17:28:47.027  9198  9224 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:47.102  2213  2213 I OppoConvertIcon: maskBitmap -- sIconBackground == null
+06-04 17:28:47.308 28665 28665 W ResourceType: For resource 0x7f150495, entry index(1173) is beyond type entryCount(345)
+06-04 17:28:47.308 28665 28665 W ResourceType: For resource 0x7f150499, entry index(1177) is beyond type entryCount(345)
+06-04 17:28:47.308 28665 28665 W ResourceType: For resource 0x7f1504ad, entry index(1197) is beyond type entryCount(345)
+06-04 17:28:47.308 28665 28665 W ResourceType: For resource 0x7f1504ab, entry index(1195) is beyond type entryCount(345)
+06-04 17:28:47.325 28665 28665 V SensorManager: RegisterListener BMA253 type:1 delay:200000us by android.view.OrientationEventListener$SensorEventListenerImpl
+06-04 17:28:47.328  1157  2679 W SensorService: SensorEventConnection sensor handle=1, package = android.view.OrientationEventListener enable pid = 28665
+06-04 17:28:47.335   688  1298 I Accelerometer: batch: handle:0, flag:0,samplingPeriodNs:62500000 maxBatchReportLatencyNs:0
+06-04 17:28:47.337  1157  2679 D SensorService: Calling activate on 1
+06-04 17:28:47.337  1157  2679 D SensorService: 	>>> actuating h/w activate handle=1 enabled=1
+06-04 17:28:47.337   688  1298 I Accelerometer: enable: handle:0, en:1
+06-04 17:28:47.338  1157  2679 D SensorService: Calling activate success on 1
+06-04 17:28:47.375 28665 28665 D AudioManager: get_do_mute_music = false
+06-04 17:28:47.399 28665 28665 D AudioManager: getStreamVolume packageName=com.google.android.youtube, index=16, streamType=3
+06-04 17:28:47.436 28665 28665 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = ViewRoot{b1c53db com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity,ident = 0}, this = DecorView@24a400f[WatchWhileActivity]
+06-04 17:28:47.437 28665 28665 I Choreographer: Skipped 25 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:47.438 28961 28998 I QUALITY-TOTAL: exp: skip
+06-04 17:28:47.474   476   476 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:47.478  1811  1811 I StatusBar: setNavigationBarColor() vis:2000080 color:ff212121 expandNavBar:false mNavigationBarEnableStatus:0
+06-04 17:28:47.471 28665 28665 W glide-source-th: type=1400 audit(0.0:706246): avc: denied { search } for name="clients" dev="debugfs" ino=7185 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs_ion:s0 tclass=dir permissive=0
+06-04 17:28:47.478  1157  2961 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+06-04 17:28:47.475 28665 28665 W glide-source-th: type=1400 audit(0.0:706247): avc: denied { search } for name="clients" dev="debugfs" ino=7185 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:debugfs_ion:s0 tclass=dir permissive=0
+06-04 17:28:47.479  1811  1811 D BarTransitions.NavigationBarView: setForceOpaque forceOpaque:true color:ff212121 @com.android.systemui.statusbar.phone.NavigationBarTransitions@d196a5f
+06-04 17:28:47.487 28665 28803 D Surface : Surface::connect(this=0x780c25f000,api=1)
+06-04 17:28:47.487   476   593 I BufferQueueProducer: [com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity#0](this:0x7c4f076800,id:3524,api:1,p:28665,c:-1) connect(P): api=1 producer=(28665:com.google.android.youtube) producerControlledByApp=true
+06-04 17:28:47.517  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:47.519  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:47.523  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:47.523  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:47.524  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:47.539 28665 28665 I Choreographer: Skipped 5 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:47.555  1157  1602 D AES     : AEEIOCTL_GET/SET_SF_STATE IOCTL,cmd= 1074294797, lParam=0.
+06-04 17:28:47.562  1157  1602 D AES     : AEEIOCTL_RT_MON_Kick IOCTL,cmd= 2147774474, lParam=300.
+06-04 17:28:47.687   476   521 W DispPerfService: onFrameAvailable: (28665,-1)
+06-04 17:28:47.699  1157  1295 W GuiExt  : Cannot find GuiExtService
+06-04 17:28:47.695  1157  1157 W android.anim: type=1400 audit(0.0:706248): avc: denied { read } for name="u:object_r:oppo_bsp_prop:s0" dev="tmpfs" ino=6604 scontext=u:r:system_server:s0 tcontext=u:object_r:oppo_bsp_prop:s0 tclass=file permissive=0
+06-04 17:28:47.700  1157  1295 E libc    : Access denied finding property "persist.report.tid"
+06-04 17:28:47.701  4275  4423 D Surface : Surface::disconnect(this=0x7811a52000,api=1)
+06-04 17:28:47.701   476   521 D Surface : Surface::connect(this=0x7c4f135000,api=1)
+06-04 17:28:47.702   476   593 I BufferQueueProducer: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](this:0x7c4eee2800,id:3523,api:1,p:4275,c:-1) disconnect(P): api 1
+06-04 17:28:47.703  1157  1295 I BufferQueueProducer: [unnamed-1157-735](this:0x78025e1800,id:735,api:1,p:476,c:-1) connect(P): api=1 producer=(476:/system/bin/surfaceflinger) producerControlledByApp=false
+06-04 17:28:47.723   476   476 I SurfaceFlinger: screenshot (com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1)
+06-04 17:28:47.726   476   521 D Surface : Surface::disconnect(this=0x7c4f135000,api=1)
+06-04 17:28:47.726  1157  1295 I BufferQueueProducer: [unnamed-1157-735](this:0x78025e1800,id:735,api:1,p:476,c:-1) disconnect(P): api 1
+06-04 17:28:47.727  1157  1295 I BufferQueue: [unnamed-1157-735](this:0x78025e1800,id:735,api:1,p:-1,c:-1) ~BufferQueueCore
+06-04 17:28:47.738 28665 28665 W YouTube : Suppressed bad viewport dimensions. Video quality may suffer!
+06-04 17:28:47.746  1811  1811 I StatusBar: setNavigationBarColor() vis:2000000 color:ff212121 expandNavBar:false mNavigationBarEnableStatus:0
+06-04 17:28:47.765 28665 28665 I Choreographer: Skipped 13 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:47.788  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:47.792  1811  1811 W Settings: Setting msim_mode_setting has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-04 17:28:47.798  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{b63dd75 G.ED..... ......I. 0,0-0,0 #7f140113 app:id/mobile_type}
+06-04 17:28:47.798  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{47d210a G.ED..... ......I. 0,0-0,0 #7f140257 app:id/data_inout}
+06-04 17:28:47.799  1811  1811 E PhoneState: iconId is 0android.widget.ImageView{1144d7b G.ED..... ......ID 0,0-9,20 #7f140257 app:id/data_inout}
+06-04 17:28:47.803   468   482 I vendor.mediatek.hardware.power@1.1-impl: PowerHint hint:8, data:0
+06-04 17:28:47.804   468   481 I libPerfService: 8: set gpu level: 2
+06-04 17:28:47.812  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: STOPPED
+06-04 17:28:47.816  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:47.823   468   481 I libPerfService: 11: set gpu level: 0
+06-04 17:28:47.823  4275  4275 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198 in: DESTROYED
+06-04 17:28:47.824 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+06-04 17:28:47.825   468   481 I libPerfService: 12: cpu_ctrl set freq: -1 -1 -1 -1
+06-04 17:28:47.826   468   481 I libPerfService: 24: set gpu level: 2
+06-04 17:28:47.827 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+06-04 17:28:47.828 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.google.android.youtube fieldId=2131431008 fieldName=null extras=null}, false)
+06-04 17:28:47.828  4275  4275 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@5ed8198
+06-04 17:28:47.832 14529 14529 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+06-04 17:28:47.835  4275  4275 D View    : [Warning] assignParent to null: this = DecorView@a546857[InstrumentationActivityInvoker$EmptyActivity]
+06-04 17:28:47.836  1811  1811 I Choreographer: Skipped 2 frames!  The application may be doing too much work on its main thread.
+06-04 17:28:47.845  4275  4275 D WindowClient: Remove from mViews: DecorView@a546857[InstrumentationActivityInvoker$EmptyActivity], this = android.view.WindowManagerGlobal@e68e79b
+06-04 17:28:47.849   476   476 I BufferQueue: [com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1](this:0x7c4eee2800,id:3523,api:1,p:-1,c:-1) ~BufferQueueCore
+06-04 17:28:47.850  9753  9875 W ResourceType: ResTable_typeSpec entry count inconsistent: given 2929, previously 2932
+06-04 17:28:47.851  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: STOPPED
+06-04 17:28:47.852  9753  9875 W ResourceType: ResTable_typeSpec entry count inconsistent: given 3009, previously 3013
+06-04 17:28:47.852  9753  9875 W ResourceType: ResTable_typeSpec entry count inconsistent: given 345, previously 2201
+06-04 17:28:47.853  4275  4275 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@600cbcd
+06-04 17:28:47.857  4275  4275 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@600cbcd in: DESTROYED
+06-04 17:28:47.858  4275  4275 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+06-04 17:28:47.860  4275  4368 I TestRunner: finished: horizontal_list_button_is_displayed(com.example.dogglers.ButtonTests)

@@ -1,0 +1,68 @@
+# 2022-06-04T09:28:50.624Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_list_button_is_displayed"
+    start_time {
+      seconds: 1654334925
+      nanos: 800000000
+    }
+    end_time {
+      seconds: 1654334928
+      nanos: 921000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/jg/Documents/College/College3.2/CMSC156/EXAM/android-basics-kotlin-dogglers-app-main/app/build/outputs/androidTest-results/connected/CPH1909 - 8.1.0/logcat-com.example.dogglers.ButtonTests-horizontal_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/jg/Documents/College/College3.2/CMSC156/EXAM/android-basics-kotlin-dogglers-app-main/app/build/outputs/androidTest-results/connected/CPH1909 - 8.1.0/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/jg/Documents/College/College3.2/CMSC156/EXAM/android-basics-kotlin-dogglers-app-main/app/build/outputs/androidTest-results/connected/CPH1909 - 8.1.0/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/jg/Documents/College/College3.2/CMSC156/EXAM/android-basics-kotlin-dogglers-app-main/app/build/outputs/androidTest-results/connected/CPH1909 - 8.1.0/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/jg/Documents/College/College3.2/CMSC156/EXAM/android-basics-kotlin-dogglers-app-main/app/build/outputs/androidTest-results/connected/CPH1909 - 8.1.0/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
